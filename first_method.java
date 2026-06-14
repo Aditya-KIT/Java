@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Scanner;
 public class first_method {
     static int sum(int a, int b)

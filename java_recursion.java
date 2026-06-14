@@ -1,4 +1,3 @@
-package com.company;
 public class java_recursion {
     static int fact(int n)
     {
